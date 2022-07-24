@@ -1,0 +1,23 @@
+{
+  "name": "hwreadme",
+  "version": "1.0.0",
+  "description": "A command line application that prompts the user for required questions and then saves the answers to a new readme.md file. In this example test.md was used instead of readme.md to insure no other readme.md was overwritten. ## Table of Contents * [Installation](#installation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibanBritt/readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibanBritt/readme/issues"
+  },
+  "homepage": "https://github.com/LibanBritt/readme#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
